@@ -1,8 +1,12 @@
 const Song = require("../databse/Song.js");
 
-const getAllSongs = () => {
-  const allSongs = Song.getAllSongs();
-  return allSongs;
+const getAllSongs = (filterParams) => {
+  try {
+    const allSongs = Song.getAllSongs(filterParams);
+    return allSongs;
+  } catch (error) {
+    throw error;
+  }
 };
 
 const getOneSong = (songId) => {
