@@ -2,19 +2,19 @@
   "songs": [
     {
       "id": "0",
-      "title": "papegøje",
+      "title": "Jeg er en papegøje fra Amerika",
       "text": "Thorbjørn Egner – på dansk ved Halfdan Rasmussen",
       "melody": "Thorbjørn Egner",
       "appears_on": {
         "album_title": "Åh Abe!",
-        "release_year": 1993,
+        "release_year": "1993 - 1999",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273f66ef15accd9967e7cfd5c17"
       },
       "lyrics": {
         "body": {
-          "html": "<p> Jeg er en papegøje fra Amerika <br> Min far var papegøjefiskepakker <br> Jeg sagde ingenting, men mor hun sagde nu og da:<br> Han lærer nok at tale, når han snakker. <br>Nu synger jeg: Å falleri og fallera. <br>Hvis nogen spørger mig, hvor jeg kommer fra, <br>så svarer jeg: Å falleri-ha-ha! <br>Jeg er en papegøje fra Amerika. <br>Jeg bo'de i en skov til jeg blev konfirmer't <br>Så blev jeg fanget af en fuglefanger. <br>Han lærte mig at synge da han selv var for genert <br>og siden blev jeg operettesanger. <br>Nu synger jeg: Å falleri og fallera. <br>Hvis nogen spørger mig, hvor jeg kommer fra. <br>så svarer jeg: Å falleri-ha-ha! <br>Jeg er en papegøje fra Amerika. <br>En dag kom der en skipper ind og købte mig <br>for femogtyve kroner og en blomme. <br>Jeg spiste blommen selv og skreg hurra! Og fløj min vej <br>og siden kom jeg her til Kardemomme <br>Her synger jeg - å falleri og fallera! <br>og byder man mig sukker, sier jeg ja! <br>For alle ved: Å falleri-ha-ha <br>at jeg er papegøjen fra Amerika. <br></p>"
+          "html": "<p> Jeg er en papegøje fra Amerika <br /> Min far var papegøjefiskepakker <br /> Jeg sagde ingenting, men mor hun sagde nu og da:<br /> Han lærer nok at tale, når han snakker. <br />Nu synger jeg: Å falleri og fallera. <br />Hvis nogen spørger mig, hvor jeg kommer fra, <br />så svarer jeg: Å falleri-ha-ha! <br />Jeg er en papegøje fra Amerika. <br /><br />Jeg bo'de i en skov til jeg blev konfirmer't <br />Så blev jeg fanget af en fuglefanger. <br />Han lærte mig at synge da han selv var for genert <br />og siden blev jeg operettesanger. <br />Nu synger jeg: Å falleri og fallera. <br />Hvis nogen spørger mig, hvor jeg kommer fra. <br />så svarer jeg: Å falleri-ha-ha! <br />Jeg er en papegøje fra Amerika. <br /><br />En dag kom der en skipper ind og købte mig <br />for femogtyve kroner og en blomme. <br />Jeg spiste blommen selv og skreg hurra! Og fløj min vej <br />og siden kom jeg her til Kardemomme <br />Her synger jeg - å falleri og fallera! <br />og byder man mig sukker, sier jeg ja! <br />For alle ved: Å falleri-ha-ha <br />at jeg er papegøjen fra Amerika.</p>"
         },
-        "body_text": "Jeg er en papegøje fra Amerika Min far var papegøjefiskepakker Jeg sagde ingenting, men mor hun sagde nu og da: Han lærer nok at tale, når han snakker. Nu synger jeg: Å falleri og fallera. Hvis nogen spørger mig, hvor jeg kommer fra, så svarer jeg: Å falleri-ha-ha! Jeg er en papegøje fra Amerika. Jeg bo'de i en skov til jeg blev konfirmer't Så blev jeg fanget af en fuglefanger. Han lærte mig at synge da han selv var for genert og siden blev jeg operettesanger. Nu synger jeg: Å falleri og fallera. Hvis nogen spørger mig, hvor jeg kommer fra. så svarer jeg: Å falleri-ha-ha! Jeg er en papegøje fra Amerika. En dag kom der en skipper ind og købte mig for femogtyve kroner og en blomme. Jeg spiste blommen selv og skreg hurra! Og fløj min vej og siden kom jeg her til Kardemomme Her synger jeg - å falleri og fallera! og byder man mig sukker, sier jeg ja! For alle ved: Å falleri-ha-ha at jeg er papegøjen fra Amerika."
+        "body_text": "Jeg er en papegøje fra Amerika Min far var papegøjefiskepakker Jeg sagde ingenting, men mor hun sagde nu og da: Han lærer nok at tale, når han snakker. Nu synger jeg: Å falleri og fallera. Hvis nogen spørger mig, hvor jeg kommer fra, så svarer jeg: Å falleri-ha-ha! Jeg er en papegøje fra Amerika. Jeg bo'de i en skov til jeg blev konfirmer't Så blev jeg fanget af en fuglefanger. Han lærte mig at synge da han selv var for genert og siden blev jeg operettesanger. Nu synger jeg: Å falleri og fallera. Hvis nogen spørger mig, hvor jeg kommer fra. så svarer jeg: Å falleri-ha-ha! Jeg er en papegøje fra Amerika. En dag kom der en skipper ind og købte mig for femogtyve kroner og en blomme. Jeg spiste blommen selv og skreg hurra! Og fløj min vej og siden kom jeg her til Kardemomme Her synger jeg - å falleri og fallera! og byder man mig sukker, sier jeg ja! For alle ved: Å falleri-ha-ha at jeg er papegøjen fra Amerika"
       },
       "durationMs": "",
       "durationText": "",
@@ -35,7 +35,7 @@
       },
       "lyrics": {
         "body": {
-          "html": "<p>Bjørnen sover<br>bjørnen sover<br>i sit lune bo<br>Den er ikke farlig<br>når man blot er varlig<br>men man kan dog<br>men man kan dog<br>aldrig på ham tro</p>"
+          "html": "<p>Bjørnen sover<br />bjørnen sover<br />i sit lune bo<br />Den er ikke farlig<br />når man blot er varlig<br />men man kan dog<br />men man kan dog<br />aldrig på ham tro</p>"
         },
         "body_text": "Bjørnen sover bjørnen sover i sit lune bo Den er ikke farlig når man blot er varlig men man kan dog men man kan dog aldrig på ham tro"
       },
@@ -58,9 +58,9 @@
       },
       "lyrics": {
         "body": {
-          "html": "<p>a b c d e f g <br> h i j k l m n o p <br> q q r r s s t <br> q q r r s s t <br> u v x y z æ ø å <br> otte-og-tyve skal der stå</p>"
+          "html": "<p>a b c d e f g <br /> h i j k l m n o p <br /> q q r r s s t <br /> q q r r s s t <br /> u v x y z æ ø å <br /> otte-og-tyve skal der stå</p>"
         },
-        "body_text": "abcdefghijklmnopqqrrsstqqrrsstuvxyzæøå otte-og-tyve skal der stå ..."
+        "body_text": "abcdefghijklmnopqqrrsstqqrrsstuvxyzæøå"
       },
       "durationMs": "",
       "durationText": "",
@@ -69,6 +69,30 @@
       "createdAt": "",
       "updatedAt": ""
     },
+    {
+      "id": "3",
+      "title": "Åh Abe",
+      "text": "Poul Henningsen",
+      "melody": "Bernhard Christensen",
+      "appears_on": {
+        "album_title": "Åh Abe!",
+        "release_year": "1993 - 1999",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f66ef15accd9967e7cfd5c17"
+      },
+      "lyrics": {
+        "body": {
+          "html": "<p>Der var engang en abe,<br />den bo'de i en skov,<br />og den ku' svinge sig fra gren til gren<br />og ta' bananer<br /> såd'n når den bum<br /> rendte rundt og laved' sjov.<br /> Åh abe, åh abe, gid jeg var li'som dig.<br /> Snoabe, snoabe, du har altid sjov til leg.<br /><br />Og abens lange hale,<br />den ku' den altså sno,<br />så den ku' svinge sig fra gren til gren<br />og uden at holde<br /> såd'n får den bum<br /> fir' bananer, to og to.<br /> Åh abe, åh abe, gid jeg var li'som dig.<br /> Snoabe, snoabe, du har altid sjov til leg.<br /><br /> Der var engang en abe,<br /> og den var rød og blå,<br /> når den sku' svinge sig fra gren til gren,<br /> var bagpartiet<br /> såd'n på den bum<br /> åh så sjovt at kigge på.<br /> Åh abe, åh abe, gid jeg var li'som dig.<br /> Snoabe, snoabe, du har altid sjov til leg</p>"
+        },
+        "body_text": "Der var engang en abe, den bo'de i en skov, og den ku' svinge sig fra gren til gren og ta' bananer  såd'n når den bum  rendte rundt og laved' sjov.  Åh abe, åh abe, gid jeg var li'som dig.  Snoabe, snoabe, du har altid sjov til leg. Og abens lange hale, den ku' den altså sno, så den ku' svinge sig fra gren til gren og uden at holde  såd'n får den bum  fir' bananer, to og to.  Åh abe, åh abe, gid jeg var li'som dig.  Snoabe, snoabe, du har altid sjov til leg.  Der var engang en abe,  og den var rød og blå,  når den sku' svinge sig fra gren til gren,  var bagpartiet  såd'n på den bum  åh så sjovt at kigge på.  Åh abe, åh abe, gid jeg var li'som dig.  Snoabe, snoabe, du har altid sjov til leg"
+      },
+      "durationMs": "",
+      "durationText": "",
+      "instrumental": false,
+      "tags": ["dyr"],
+      "createdAt": "",
+      "updatedAt": ""
+    },
+
     {
       "id": "",
       "title": "",
