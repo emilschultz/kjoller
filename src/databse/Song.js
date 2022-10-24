@@ -15,6 +15,12 @@ const getAllSongs = (filterParams) => {
         song.text.toLowerCase().includes(filterParams.text)
       );
     }
+    // get by composer
+    if (filterParams.composer) {
+      return DB.songs.filter((song) =>
+        song.melody.toLowerCase().includes(filterParams.composer)
+      );
+    }
     // get by album/appears on
     if (filterParams.album) {
       return DB.songs.filter((song) =>

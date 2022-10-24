@@ -1,10 +1,10 @@
 const songService = require("../services/songService");
 
 const getAllSongs = (req, res) => {
-  const { title, text, album } = req.query;
+  const { title, text, album, composer } = req.query;
 
   try {
-    const allSongs = songService.getAllSongs({ title, text, album });
+    const allSongs = songService.getAllSongs({ title, text, album, composer });
 
     res.send({ status: "OK", data: allSongs });
   } catch (error) {
