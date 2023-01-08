@@ -1,4 +1,4 @@
-const Song = require("../databse/Song.js");
+const Song = require("../database/Song.js");
 
 const getAllSongs = (filterParams) => {
   try {

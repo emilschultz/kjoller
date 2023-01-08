@@ -27,6 +27,12 @@ const getAllSongs = (filterParams) => {
         song.appears_on.album_title.toLowerCase().includes(filterParams.album)
       );
     }
+    // get by tag
+    if (filterParams.tags) {
+      return DB.songs.filter((song) => {
+        song.tags.includes(filterParams.tags);
+      });
+    }
     return songs;
   } catch (error) {
     throw { status: 500, message: error };
