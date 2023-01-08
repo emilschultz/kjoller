@@ -94,14 +94,60 @@
     },
 
     {
-      "id": "",
-      "title": "",
-      "text": "",
+      "id": "4",
+      "title": "Elefantens vuggevise",
+      "text": "Harald Andreas Hartvig Lund",
+      "melody": "Mogens Jermiin Nissen",
+      "appears_on": {
+        "album_title": "Åh Abe!",
+        "release_year": "1993 - 1999",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f66ef15accd9967e7cfd5c17"
+      },
+      "lyrics": {
+        "body": {
+          "html": "<p>Nu tændes der stjerner på himlens blå.<br /> Halvmånen løfter sin sabel.<br /> Jeg våger at ikke de slemme mus<br /> Skal liste sig op i din snabel.<br /> Sov sødt lille jumbo og visselul.<br /> Nu bliver skoven så dunkel.<br /> Nu sover tante den gamle struds,<br /> Og næsehornet din onkel.<br /><br /> Nu kalder i søvne den vilde gnu<br /> I krattet af store lianer.<br /> Og aberne synger sig selv i søvn<br /> I vuggen af grønne bananer.<br /> Sov sødt lille jumbo, dit lille pus!<br /> Slet intet, min ven skal du mangle.<br /> I morgen får du en kokosnød,<br /> Og den skal du bruge som rangle.<br /><br /> En zebra tager sin natdragt på,<br /> Med sorte og hvide striber,<br /> Et flyveegern med lådne ben,<br /> Sidder i mørket og piber.<br /> Sov sødt lille jumbo, nu er du vel mæt?<br /> Du kender ej husmodersorgen.<br /> En lille plantage på tusinde rør,<br /> Dem skal vi ha’ syltet i morgen!<br /><br /> Hør tigeren brøler sin aftensang<br /> Og spejder mod alle kanter,<br /> Ved vadestedet, med slebet klo,<br /> Der lister den sorte panter.<br /> Sov tyst lille jumbo, dit lille myr.<br /> Din nuttede lille rødbede.<br /> Du bad mig fortælle et eventyr,<br /> Nu sover du sødt allerede.<br /></p>"
+        },
+        "body_text": "Nu tændes der stjerner på himlens blå. Halvmånen løfter sin sabel. Jeg våger at ikke de slemme mus Skal liste sig op i din snabel. Sov sødt lille jumbo og visselul. Nu bliver skoven så dunkel. Nu sover tante den gamle struds, Og næsehornet din onkel. Nu kalder i søvne den vilde gnu I krattet af store lianer. Og aberne synger sig selv i søvn I vuggen af grønne bananer. Sov sødt lille jumbo, dit lille pus! Slet intet, min ven skal du mangle. I morgen får du en kokosnød, Og den skal du bruge som rangle. En zebra tager sin natdragt på, Med sorte og hvide striber, Et flyveegern med lådne ben, Sidder i mørket og piber. Sov sødt lille jumbo, nu er du vel mæt? Du kender ej husmodersorgen. En lille plantage på tusinde rør, Dem skal vi ha' syltet i morgen! Hør tigeren brøler sin aftensang Og spejder mod alle kanter, Ved vadestedet, med slebet klo, Der lister den sorte panter. Sov tyst lille jumbo, dit lille myr. Din nuttede lille rødbede. Du bad mig fortælle et eventyr, Nu sover du sødt allerede."
+      },
+      "durationMs": "",
+      "durationText": "",
+      "instrumental": false,
+      "tags": ["dyr"],
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "5",
+      "title": "Sur, sur, sur",
+      "text": "Hoffmann von Fallersleben",
       "melody": "",
       "appears_on": {
         "album_title": "",
         "release_year": "",
         "image_url": ""
+      },
+      "lyrics": {
+        "body": {
+          "html": "<p>Sur, sur sur, lille bi, omkring!<br /> Frygt ej for de vilde drenge,<br /> flyv kun ud på mark og enge!<br /> Sur, sur, sur, sur i lystig ring.<br /><br /> Sur, sur sur, lille bi, omkring!<br /> Sid i blomten som en dronning <br /> sug den søde, søde honning!<br /> Sur, sur, sur, sur i lystig ring.<br /><br /> Sur, sur sur, lille bi, omkring!<br /> Flyv så med dit rige bytte<br /> hjem til cellen i din hytte!<br /> Sur, sur sur, sur i lystig ring.</p>"
+        },
+        "body_text": "Sur, sur sur, lille bi, omkring! Frygt ej for de vilde drenge, flyv kun ud på mark og enge! Sur, sur, sur, sur i lystig ring. Sur, sur sur, lille bi, omkring! Sid i blomten som en dronning  sug den søde, søde honning! Sur, sur, sur, sur i lystig ring. Sur, sur sur, lille bi, omkring! Flyv så med dit rige bytte hjem til cellen i din hytte! Sur, sur sur, sur i lystig ring."
+      },
+      "durationMs": "",
+      "durationText": "",
+      "instrumental": false,
+      "tags": ["dyr", "gamle folkesange"],
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "text": "",
+      "melody": "",
+      "appears_on": {
+        "album_title": "Åh Abe!",
+        "release_year": "1993 - 1999",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f66ef15accd9967e7cfd5c17"
       },
       "lyrics": {
         "body": {
